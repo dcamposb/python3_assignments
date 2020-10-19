@@ -8,4 +8,5 @@ There are 5 courses to this specialization, each section lasting around a month 
 I will be posting this final project assignments, and not the individual weekly tasks, to this repository. 
 
 The purpose of this repository is to not only document my progress, but also to allow anyone interested in understanding my python3 progress (outside of work, since most of my projects, repositories, and packages are in made for a private institution), to take a look.  I would say most of this code is very basic in comparison to what I do everyday, but I think it is necessary; and works as a foundation for all future documentaiton of my programming experience. 
-My work also focuses very much on machine learning and data analytics, and this repositories mostly focus on other topics, which hopelly gives anyone interested a wider view of my abilities. 
+
+My work also focuses very much on Machine Learning, and Big Data Analytics, and this repositories mostly focus on other topics, which hopelly gives anyone interested a wider view of my abilities. I will also use this as an opportunity to explore other python capabilities and projects.  
