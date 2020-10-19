@@ -11,11 +11,8 @@ The respository devides itself in Course Folders under an Assignments Folder
 Within Each Course Folder you can fin Final Projects  and weekly assignments for each course section.  
 
 There are 5 courses to this specialization, each section lasting around a month and a half. At the end of each specialization section, which is compromised of several hours of lectures and practices, there is a project assignment.
-<<<<<<< HEAD
 I will be posting this final project assignments, and  the individual weekly tasks, to this repository. Some courses might only have the final projects. 
-=======
 I will be posting these final project assignments, and not the individual weekly tasks, to this repository. 
->>>>>>> 839af9e31a6aad424031a056dd34b71ea3980964
 
 The purpose of this repository is to not only document my progress, but also to allow anyone interested in understanding my python3 progress (outside of work, since most of my projects, repositories, and packages are in made for a private institution), to take a look.  I would say most of this code is very basic in comparison to what I do everyday, but I think it is necessary; and works as a foundation for all future documentaiton of my programming experience. 
 
