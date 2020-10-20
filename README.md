@@ -1,6 +1,8 @@
 # python3_assignments
 
-The following repository holds python3 assignments done for the University of Michigan Ann Arbour **Python3 Programming Coursera Specialization**. While I have had experience with python since my senior year in college, and I work with python extensively at my job; I have always wanted to better my core understandings of the languague. This repository is a reflection of that as I follow this specialization.
+The following repository holds python3 assignments done for the University of Michigan Ann Arbour **Python3 Programming Coursera Specialization**. 
+
+While I have had experience with python since my senior year in college, and I work with python extensively at my job; I have always wanted to better my core understandings of the languague. This repository is a reflection of that as I follow this specialization. The initial courses dive into the basics; but the the specialization progressively looks at much more advanced concepts as the course timeline proceeds.
 
 The respository devides itself in Course Folders under an Assignments Folder
 
