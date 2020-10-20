@@ -1,6 +1,6 @@
 # python3_assignments
 
-The following repository holds python3 assignments done for the University of Michigan Ann Arbour **Coursera Python3 Programming Specialization**. 
+The following repository holds python3 assignments done for the University of *Michigan* *Ann* *Arbour* :  **Coursera Python3 Programming Specialization**. 
 
 There are 5 courses to this specialization, each section lasting around a month and a half. At the end of each specialization section, which is compromised of several hours of lectures and practices, there is a project assignment. I will be posting this final project assignments, and the individual weekly tasks, to this repository. Some courses might only have the final projects. I will be posting these final project assignments, and not the individual weekly tasks, to this repository.
 
