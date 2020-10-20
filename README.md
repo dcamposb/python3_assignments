@@ -7,8 +7,12 @@ There are 5 courses to this specialization, each section lasting around a month 
 # Repo Structure 
 The respository devides itself in Course Folders under an Assignments Folder; within this directory one will find other sub folders detailing: 
 - Course 1
+  - Final Project
 - Course 2
+  - Final project 
 - Course 3
+  - Weekly Assignments 
+  - Final Project 
 
 Within Each Course Folder you can fin Final Projects and weekly assignments for each course section.
 
